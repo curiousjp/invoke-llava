@@ -18,7 +18,7 @@ default_messages = [
                        'present only one description at a time,'
                        'not lead your descriptions with headers, greetings, bullets, list numbers, etc, or'
                        'include any other content that cannot be read directly as a description. '
-                     'This is important to avoid breaking immersion from our users. Be concise, and if you must use emoji, use them sparingly.' )
+                     'This is important to avoid breaking immersion from our users. Be concise.' )
     }, 
     {
         'role': 'user', 
